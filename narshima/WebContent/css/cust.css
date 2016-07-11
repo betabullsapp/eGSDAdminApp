@@ -1,0 +1,46 @@
+input[type="text"]{
+	 border: 1px #ccc solid !important;
+	 padding: 0 5px !important;
+	 border-radius: 4px;
+}
+.input-field label{
+	padding: 0 0 0 8px;
+}
+select{
+	border-radius: 4px; 
+	border: 1px #ccc solid !important;
+}
+
+.tabs .tab{
+	background: #00bcd4;
+	color: #fff !important;
+}
+.tabs .tab a{
+	color: #fff;
+}
+.tabs .tab a.active{
+	 background: #0090a2;
+	 color: #fff;
+}
+.tabs .indicator{
+	background: #006f7d;
+}
+.input-field {
+    margin-top: 2rem;
+}
+.tabs-left {
+	display: block !important;
+    height: auto !important;
+}
+.tabs-left li{
+	width:100% !important;
+	text-align:left !important;
+	
+} 
+.tabs-left a{
+	text-align: left;
+	padding: 0 0 0 15px;
+}
+.indicator{
+	display: none;
+}

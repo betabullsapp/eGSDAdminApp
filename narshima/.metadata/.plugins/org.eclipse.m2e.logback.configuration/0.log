@@ -1,0 +1,12 @@
+2015-11-06 14:55:24,643 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egsdAdminApp:egsdAdminApp:0.0.1-SNAPSHOT @ D:\mohan\5-11-2015 (Egsd Reconstruction)\egsdAdminApp01\pom.xml.
+2015-11-06 14:55:39,362 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egsdAdminApp/src
+2015-11-06 14:55:39,363 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /egsdAdminApp/src/test/java because it overlaps with /egsdAdminApp/src
+2015-11-06 14:55:45,942 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 25 sec
+2015-11-06 14:56:01,017 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-06 14:56:01,020 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\mohan\5-11-2015 (Egsd Reconstruction)\egsdAdminApp01\src\main\resources
+2015-11-06 14:56:01,024 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-06 14:56:01,024 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\mohan\5-11-2015 (Egsd Reconstruction)\egsdAdminApp01\src\test\resources
+2015-11-07 11:19:00,174 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-07 11:19:00,205 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\mohan\5-11-2015 (Egsd Reconstruction)\egsdAdminApp01\src\main\resources
+2015-11-07 11:19:00,208 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-07 11:19:00,208 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\mohan\5-11-2015 (Egsd Reconstruction)\egsdAdminApp01\src\test\resources
