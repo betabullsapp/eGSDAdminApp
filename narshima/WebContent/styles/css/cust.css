@@ -1,0 +1,64 @@
+input[type="text"]{
+	
+	
+	 padding: 0 5px !important;
+
+}
+.input-field label{
+	padding: 0 0 0 8px;
+}
+select{
+	border-radius: 4px; 
+	border: 1px #ccc solid !important;
+}
+.customFont {
+	font-size:14px !important;
+}
+#locationtext {
+	font-size:20px !important;
+}
+
+#supertext {
+	font-size:20px !important;
+}
+#cstext {
+	font-size:20px !important;
+}
+
+.tabs .tab{
+	background: #00bcd4;
+	color: #fff !important;
+}
+.tabs .tab a{
+	color: #fff;
+}
+.tabs .tab a.active{
+	 background: #0090a2;
+	 color: #fff;
+}
+.tabs .indicator{
+	background: #006f7d;
+}
+.input-field {
+    margin-top: 2rem;
+}
+.tabs-left {
+	display: block !important;
+    height: auto !important;
+}
+.tabs-left a{
+	text-align: left;
+	padding: 0 0 0 15px;
+}
+.indicator{
+	display: none;
+}
+.dropdown-content li{
+	min-height:35px !important;	
+}
+.dropdown-content li a{
+	font-size:14px !important;
+	padding:5px 16px !important; 
+}
+
+.checkbox_input [type="checkbox"]:not(:checked), [type="checkbox"]:checked {left:0px !important; visibility:visible; position:static;}
